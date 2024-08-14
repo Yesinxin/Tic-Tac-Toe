@@ -6,7 +6,8 @@
 
 - [功能](#功能)
 - [技術棧](#技術棧)
-
+- [遊戲連結](#遊戲連結)
+- [安裝與使用](#安裝與使用)
 
 ## 功能
 
@@ -20,3 +21,6 @@
 - **前端**: React, JavaScript, CSS
 - **字型**: Google Fonts (Roboto)
 
+## 遊戲連結
+
+[點擊這裡玩井字遊戲](https://yesinxin.github.io/Tic-Tac-Toe/)
